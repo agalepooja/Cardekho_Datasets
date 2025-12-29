@@ -56,4 +56,7 @@
 ● Identifying budget-friendly and luxury vehicle segments  
 ● Understanding seller dominance and vehicle aging patterns  
 
+<img width="1846" height="711" alt="image" src="https://github.com/user-attachments/assets/f6b05c56-1877-42ab-b5b4-1f51a7fdc7f5" />
+
+
 
